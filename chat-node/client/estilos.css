@@ -1,0 +1,16 @@
+#mensajes {
+  width: 95%;
+  max-width: 400px;
+  height: 350px;
+  overflow-y: scroll;
+  box-shadow: 0px 0px 20px #ccc inset;
+  border: 1px solid #ccc;
+}
+
+.mensaje{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: white;
+}
